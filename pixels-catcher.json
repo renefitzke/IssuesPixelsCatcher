@@ -1,0 +1,14 @@
+{
+  "android": {
+    "activityName": ".MainActivity",
+    "deviceName": "Pixel_4_XL_API_30",
+    "packageName": "com.issuespixelscatcher",
+    "snapshotsPath": "./snapshotsImages",
+    "release": {
+      "deviceParams": ["-no-audio", "-no-snapshot"],
+      "appFile": "./android/app/build/outputs/apk/release/app-release.apk"
+    }
+  },
+  "canStopDevice": true,
+  "logLevel": "v"
+}
